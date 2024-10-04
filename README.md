@@ -5,8 +5,9 @@ This boilerplate provides a solid foundation for developing Framer plugins using
 ## Features
 
 - TypeScript support
-- Jotai for state management
+- Zustand for state management
 - Local storage integration
+- Tailwind + Shadcn setup
 - Type-safe routing for multiple pages/tabs
 - Jest for testing
 - Various usage examples
