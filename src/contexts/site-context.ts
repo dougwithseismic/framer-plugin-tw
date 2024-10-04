@@ -4,9 +4,9 @@ import { persist } from "zustand/middleware";
 
 interface SiteState {
   theme: "light" | "dark";
-  setTheme: (theme: "light" | "dark") => void;
+  setTheme: (theme: "light" | "dark") => Promise<void>;
   searchQuery: string;
-  setSearchQuery: (query: string) => void;
+  setSearchQuery: (query: string) => Promise<void>;
 }
 
 const THEME_KEY = "site-theme";
