@@ -61,9 +61,8 @@ We welcome contributions to improve this boilerplate! If you have any questions,
 
 To dive deeper into the technologies used in this boilerplate:
 
-- [Framer API Documentation](https://www.framer.com/api/)
+- [Framer API Documentation](https://www.framer.com/developers/plugins/reference)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Jotai Documentation](https://jotai.org/)
 - [Jest Documentation](https://jestjs.io/docs/getting-started)
 
 ## Feedback
